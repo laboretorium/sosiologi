@@ -1,2 +1,7 @@
-# sosiologi
-Dokumentasi materi sosiologi.
+---
+description: Dokumentasi materi sosiologi.
+---
+
+# Sosiologi
+
+Dalam tahap pengembangan.
